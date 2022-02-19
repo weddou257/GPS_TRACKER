@@ -1,6 +1,6 @@
 const Map<String, String> LocaleEN = {
   'en': 'English',
-  'pt': 'Portuguese',
+  'pt': 'Arabe',
   'yes': 'Yes',
   'no': 'No',
   'noTrackers': 'No trackers! Add a new Tracker to start!',
